@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RCS-MESS-MENU/static/css/main.5c023a01.css",
+    "main.js": "/RCS-MESS-MENU/static/js/main.e8df7d06.js",
+    "static/js/787.6e4b67cd.chunk.js": "/RCS-MESS-MENU/static/js/787.6e4b67cd.chunk.js",
+    "index.html": "/RCS-MESS-MENU/index.html",
+    "main.5c023a01.css.map": "/RCS-MESS-MENU/static/css/main.5c023a01.css.map",
+    "main.e8df7d06.js.map": "/RCS-MESS-MENU/static/js/main.e8df7d06.js.map",
+    "787.6e4b67cd.chunk.js.map": "/RCS-MESS-MENU/static/js/787.6e4b67cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c023a01.css",
+    "static/js/main.e8df7d06.js"
+  ]
+}
