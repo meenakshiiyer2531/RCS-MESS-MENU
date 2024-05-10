@@ -20,7 +20,7 @@ To get started with our app, follow these simple steps:
 
 1. *Clone the Repository:*
    bash
-   git clone https://github.com/your-username/rcs-menu-card-web-app.git
+   git clone https://github.com/meenakshiiyer2531/rcs-menu-card-web-app.git
    
 
 2. *Install Dependencies:*
