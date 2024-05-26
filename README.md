@@ -49,4 +49,4 @@ If you encounter any issues or have suggestions for improvements, please don't h
 
 The RCS Menu Card Web App is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-Let's simplify your dining experience together!
+Let's simplify your dining experience together! It is a exclusive website for RCS
